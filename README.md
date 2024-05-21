@@ -154,3 +154,28 @@ You can add your own device images to the "public/img" folder and set the refere
    ```bash
     npm run coverage
    ```
+
+## Contributing
+
+Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
+
+## License
+
+![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+(LICENSE) © {{Year}} [ERNI - Swiss Software Engineering](https://www.betterask.erni)
+
+## Code of conduct
+
+Please see our [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Follow us
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ERNI?style=social)](https://www.twitter.com/ERNI)
+[![Twitch Status](https://img.shields.io/twitch/status/erni_academy?label=Twitch%20Erni%20Academy&style=social)](https://www.twitch.tv/erni_academy)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkdDcxjml85-Ydn7Dc577WQ?label=Youtube%20Erni%20Academy&style=social)](https://www.youtube.com/channel/UCkdDcxjml85-Ydn7Dc577WQ)
+[![Linkedin](https://img.shields.io/badge/linkedin-31k-green?style=social&logo=Linkedin)](https://www.linkedin.com/company/erni)
+
+## Contact
+
+📧 [esp-services@betterask.erni](mailto:esp-services@betterask.erni)
