@@ -169,6 +169,9 @@ Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 Please see our [Code of Conduct](CODE_OF_CONDUCT.md)
 
+## Stats
+![Alt](https://repobeats.axiom.co/api/embed/8e806e36a58323efc8f2eb4dc55757c0dd755ea4.svg "Repobeats analytics image")
+
 ## Follow us
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ERNI?style=social)](https://www.twitter.com/ERNI)
