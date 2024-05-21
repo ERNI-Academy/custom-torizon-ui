@@ -50,7 +50,7 @@ To get started with the Toradex Custom Web UI, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/erni-dan/custom-torizon-ui.git
+   git clone git@github.com:ERNI-Academy/custom-torizon-ui.git
    ```
 
 2. Install [node](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) and npm
